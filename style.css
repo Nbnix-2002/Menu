@@ -1,0 +1,9 @@
+
+body { font-family: Arial, sans-serif; padding: 20px; background: #f8f8f8; }
+h1 { text-align: center; }
+#categories { text-align: center; margin-bottom: 20px; }
+.category-btn { margin: 5px; padding: 10px 15px; cursor: pointer; background: #ddd; border-radius: 5px; }
+.menu-item { background: #fff; margin: 10px; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+.menu-item img { width: 100px; height: 100px; object-fit: cover; border-radius: 8px; float: left; margin-right: 15px; }
+.menu-item h3 { margin: 0; }
+.menu-item p { margin: 5px 0; }
