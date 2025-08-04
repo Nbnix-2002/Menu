@@ -1,0 +1,41 @@
+
+{
+  "Hot Dishes": [
+    {
+      "name": "Grilled Salmon",
+      "description": "Served with roasted potatoes and lemon",
+      "price": "$18",
+      "image": "https://via.placeholder.com/100?text=Salmon"
+    },
+    {
+      "name": "Margherita Pizza",
+      "description": "Tomato, mozzarella, fresh basil",
+      "price": "$12",
+      "image": "https://via.placeholder.com/100?text=Pizza"
+    }
+  ],
+  "Salads": [
+    {
+      "name": "Caesar Salad",
+      "description": "Romaine, croutons, parmesan, Caesar dressing",
+      "price": "$10",
+      "image": "https://via.placeholder.com/100?text=Caesar"
+    }
+  ],
+  "Appetizers": [
+    {
+      "name": "Bruschetta",
+      "description": "Tomatoes, garlic, basil, olive oil",
+      "price": "$8",
+      "image": "https://via.placeholder.com/100?text=Bruschetta"
+    }
+  ],
+  "Beverages": [
+    {
+      "name": "Iced Tea",
+      "description": "Chilled black tea with lemon",
+      "price": "$3",
+      "image": "https://via.placeholder.com/100?text=Tea"
+    }
+  ]
+}
